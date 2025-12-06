@@ -86,6 +86,9 @@ body {
         flex-direction: column;
         justify-content: flex-start;
     }
+    .id-value {
+        font-size: 0.6rem;
+    }
 }
 /* ------------------- person-card ------------------- */
 .booth-number {
@@ -104,7 +107,6 @@ body {
 
     .id-value {
         font-size: 0.7rem;
-        
         text-align: right;
         white-space: nowrap;
 
