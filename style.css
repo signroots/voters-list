@@ -60,7 +60,7 @@ body {
 }
 
 .rn-size {
-        font-size: 1em !important;
+        font-size: 1.2em !important;
 }
 /* ------------------- RESPONSIVE ------------------- */
 @media (max-width: 700px) {
@@ -76,7 +76,7 @@ body {
     input, .btn { display: none; }
 
     #result {
-        grid-template-columns: 4fr 4fr;  /* 2 cards per row for print */
+        grid-template-columns: 1fr 1fr;  /* 2 cards per row for print */
         gap: 20px;
         width: 100%;
         align-items: start;
@@ -93,7 +93,7 @@ body {
         font-size: 0.6rem;
     }
     .rn-size {
-        font-size: 1em !important;
+        font-size: 1.2em !important;
     }
 }
 /* ------------------- person-card ------------------- */
