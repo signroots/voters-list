@@ -60,7 +60,7 @@ body {
 }
 
 .rn-size {
-        font-size: 2em !important;
+        font-size: 1em !important;
 }
 /* ------------------- RESPONSIVE ------------------- */
 @media (max-width: 700px) {
