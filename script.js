@@ -54,8 +54,8 @@ function createCard(person, index) {
 
             <div class="info-row">
                 <div class="label">ബൂത്ത്</div>
-                <div class="value">
-                    : ${person["PollingStation"].replace(/(\d+)/, '<span class="booth-number">$1</span>')}
+                <div class="value polling">
+                    : ${person["PollingStation"].replace(/(\d+)/, '<span class="booth-number">$1 </span> ')}
                 </div>
             </div>
 

@@ -62,6 +62,10 @@ body {
 .rn-size {
         font-size: 1.2em !important;
 }
+.polling {
+    color: rgb(0, 0, 0) !important;
+    font-size: 10px !important;
+}
 /* ------------------- RESPONSIVE ------------------- */
 @media (max-width: 700px) {
     #result {
@@ -99,6 +103,8 @@ body {
 /* ------------------- person-card ------------------- */
 .booth-number {
     font-weight: bold;
+    font-size: 1.2em !important;
+    color: #080000 !important;
 }
 @media (min-width: 1024px) {
     .slno-id-row {
