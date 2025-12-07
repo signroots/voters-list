@@ -76,7 +76,7 @@ body {
     input, .btn { display: none; }
 
     #result {
-        grid-template-columns: 1fr 1fr;  /* 2 cards per row for print */
+        grid-template-columns: 2fr 2fr;  /* 2 cards per row for print */
         gap: 20px;
         width: 100%;
         align-items: start;
