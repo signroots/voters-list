@@ -32,7 +32,7 @@ function createCard(person, index) {
         <div class="person-card">
             <div class="info-row slno-id-row">
                 <div class="label">Sl.No</div>
-                <div class="value">:<b> ${index + 1}</b></div>
+                <div class="value">:<b class="rn-size"> ${index + 1}</b></div>
                 <div class="desktop-spacer"></div>
                 <div class="id-value">${person["ID Card No."]}</div>
             </div>

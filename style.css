@@ -89,6 +89,9 @@ body {
     .id-value {
         font-size: 0.6rem;
     }
+    .rn-size {
+        font-size: 1.5em !important;
+    }
 }
 /* ------------------- person-card ------------------- */
 .booth-number {
